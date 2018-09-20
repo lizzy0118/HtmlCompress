@@ -118,15 +118,22 @@ namespace cshtmlCompress
                     str = str.Replace("  ", " ");
                     str = str.Replace("　　　", "");
                     str = str.Replace("　　", " ");
-                    if (str.Contains("@H"))
+                    if (str.Contains("@Html"))
                     {
-                        str = str.Replace("@H", " @H");
+                        str = str.Replace("@Html", " @Html");
+                        str = str.Replace("' @Html", "'@Html");
+                        str = str.Replace("\" @Html", "\"@Html");
                     }
                     if (str.Contains("@{"))
                     {
                         str = str.Insert(str.IndexOf("@{"), "\r\n");
                     }
                 }
+                str = str.Replace("function ", ";function ");
+                str = str.Replace("(;function ", "(function ");
+                str = str.Replace(";;function ", ";function ");
+                str = str.Replace("; ;function ", ";function ");
+                str = str.Replace(": ;function ", ": function ");
                 sw.Write(str);
                 sw.Flush();
             }

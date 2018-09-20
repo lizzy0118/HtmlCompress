@@ -11,3 +11,12 @@ D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.pdb
 D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe.config
 D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.exe
 D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.pdb
+E:\my\git\HtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe.config
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.exe
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.pdb
+E:\my\git\HtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe
+E:\my\git\HtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.pdb
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.csprojResolveAssemblyReference.cache
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.Form1.resources
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.Properties.Resources.resources
+E:\my\git\HtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.csproj.GenerateResource.Cache
