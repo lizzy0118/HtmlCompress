@@ -1,0 +1,13 @@
+D:\Test\cshtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe.config
+D:\Test\cshtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe
+D:\Test\cshtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.pdb
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.Form1.resources
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.Properties.Resources.resources
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.exe
+D:\Test\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.pdb
+D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\bin\Debug\cshtmlCompress.exe.config
+D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.exe
+D:\天翼云盘下载\cshtmlCompress\cshtmlCompress\obj\x86\Debug\cshtmlCompress.pdb
